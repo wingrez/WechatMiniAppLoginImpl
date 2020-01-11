@@ -1,0 +1,4 @@
+<view class="container">
+  <button class='login' type='primary' open-type="getUserInfo" 
+  bindgetuserinfo="login">登录</button>
+</view>
